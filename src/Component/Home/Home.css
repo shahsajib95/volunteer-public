@@ -1,0 +1,13 @@
+.banner{
+        background-image: url('../../images/Group\ 1330.png');
+    width: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0
+}
+.task-section{
+    margin-top: 10%;
+}
+.task-section h3{
+    font-weight: 600;
+}

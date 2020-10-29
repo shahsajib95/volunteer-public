@@ -1,0 +1,15 @@
+.join-section{
+    height: 100vh;
+}
+.join-form{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    border: 1px solid rgb(207, 207, 207);
+}
+.join-form .form-control{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    font-size: 10px!important;
+}

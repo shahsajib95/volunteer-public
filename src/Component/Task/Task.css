@@ -1,0 +1,8 @@
+.card-sec{
+        top: 70%; 
+        background-color: blue;
+        height: 80px;
+        width: 191px;
+        color: white;
+        border-radius: 0 0 5px 5px;
+}
